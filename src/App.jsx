@@ -5,7 +5,7 @@ import Blog from './pages/Blog';
 import LearningUseState  from './Pages/components/Learningusestate';
 import Single from './pages/components/Single';
 import Editage from './pages/components/Editage';
-import Form from './Pages/components/Form';
+import Form from './pages/components/Form';
 
 
 function App() {

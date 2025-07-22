@@ -1,6 +1,6 @@
 import { useState } from "react"
 import axios from "axios"
-import NavBar from "../NavBar";
+import NavBar from "./NavBar";
 import { useNavigate, useParams } from "react-router-dom"
 
 function Editage(){

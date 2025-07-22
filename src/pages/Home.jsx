@@ -1,5 +1,5 @@
 import {useEffect,useState} from "react";
-import NavBar from "./NavBar";
+import NavBar from "./components/NavBar";
 import Card from "./components/Card";
 import axios from "axios";
 

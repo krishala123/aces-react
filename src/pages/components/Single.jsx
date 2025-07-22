@@ -1,7 +1,8 @@
 import axios from "axios";
-import NavBar from "./NavBar";
+
 import { useEffect, useState } from "react";
 import { Link, useNavigate, useParams } from "react-router-dom";
+import NavBar from "./NavBar";
 
 
 function Single(){

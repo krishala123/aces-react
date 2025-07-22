@@ -16,17 +16,12 @@ function App() {
     <Routes>
       <Route path="/" element={<Home />} />
       <Route path='/home' element={<Home/>}/>
-      <Route path="!" element={<Blog />} />
       <Route path='/blog' element={<Blog/>}/>
-      <Route path="@" element={<Create />} />
-      <Route path='/create' element={<Create/>}/>
-      <Route path="#" element={<Edit />} />
+      {/* <Route path='/create' element={<Create/>}/> */}
       <Route path='/edit' element={<Edit/>}/>
       <Route path='/Single/:id' element={<Single/>}/>
       <Route path='/editage/:id' element={<Editage/>}/>
       <Route path='/form' element={<Form/>}/>
-      
-
       <Route path='/LearningUseState' element={<LearningUseState/>} />
 
     </Routes>

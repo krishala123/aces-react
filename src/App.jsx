@@ -2,7 +2,7 @@ import {BrowserRouter,Routes,Route} from 'react-router-dom'
 import Home from './pages/Home';
 import Edit from './pages/components/Edit';
 import Blog from './pages/Blog';
-import LearningUseState  from './Pages/components/Learningusestate';
+import LearningUseState  from './pages/components/Learningusestate';
 import Single from './pages/components/Single';
 import Editage from './pages/components/Editage';
 import Form from './pages/components/Form';
